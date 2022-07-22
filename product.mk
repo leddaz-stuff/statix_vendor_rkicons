@@ -1,3 +1,7 @@
+ifeq ($(INCLUDE_PIXEL_LAUNCHER),true)
 PRODUCT_PACKAGES += \
-    LawniconsLauncher3Overlay \
     LawniconsNexusLauncherOverlay
+else
+PRODUCT_PACKAGES += \
+    LawniconsLauncher3Overlay
+endif
