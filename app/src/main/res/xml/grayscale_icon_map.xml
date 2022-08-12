@@ -38,7 +38,7 @@
     <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
-    <icon drawable="@drawable/boom_and_megaboom" package="com.logitech.ueboom" name="BOOM & MEGABOOM" />
+    <icon drawable="@drawable/boom_and_megaboom" package="com.logitech.ueboom" name="BOOM &amp; MEGABOOM" />
     <icon drawable="@drawable/boost_for_reddit" package="com.rubenmayayo.reddit" name="Boost for Reddit" />
     <icon drawable="@drawable/brave_browser" package="com.brave.browser" name="Brave Browser" />
     <icon drawable="@drawable/briar" package="org.briarproject.briar.android" name="briar" />
@@ -334,7 +334,7 @@
     <icon drawable="@drawable/nokia_camera" package="com.hmdglobal.camera2" name="Nokia Camera" />
     <icon drawable="@drawable/notenapp" package="com.notenapp" name="Notenapp" />
     <icon drawable="@drawable/nothing_recorder" package="com.nothing.soundrecorder" name="Nothing Recorder" />
-    <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit & Zepp" />
+    <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
     <icon drawable="@drawable/oculus" package="com.oculus.twilight" name="Oculus" />
